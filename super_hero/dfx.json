@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "super_hero_backend_backend": {
+      "main": "src/super_hero_backend_backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
