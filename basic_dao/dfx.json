@@ -1,7 +1,7 @@
 {
   "canisters": {
     "basic_dao_backend_backend": {
-      "main": "src/basic_dao_backend_backend/main.mo",
+      "main": "src/basic_dao_backend/main.mo",
       "type": "motoko"
     }
   },

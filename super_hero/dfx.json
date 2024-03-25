@@ -1,7 +1,7 @@
 {
   "canisters": {
     "super_hero_backend_backend": {
-      "main": "src/super_hero_backend_backend/main.mo",
+      "main": "src/super_hero_backend/main.mo",
       "type": "motoko"
     }
   },
